@@ -6,6 +6,11 @@
 
 > Creative rating with mutiple color variance
 
+# Preview demo
+
+This preview was generated with [Stackblitz](https://stackblitz.com/edit/ngx-rating-star)
+
+
 # Angular version
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
