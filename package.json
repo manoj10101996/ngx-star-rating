@@ -1,0 +1,42 @@
+{
+  "name": "ngx-rating-star",
+  "author": {
+    "name": "Manojkumar Muthukumar",
+    "email": "manoj1010196@gmail.com"
+  },
+  "description": "Rating module with starts",
+  "version": "0.0.5",
+  "peerDependencies": {
+    "@angular/common": "^9.1.9",
+    "@angular/core": "^9.1.9"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "icon": "https://image.flaticon.com/icons/svg/3004/3004112.svg",
+  "keywords": [
+    "angular",
+    "ngx",
+    "ng9",
+    "star",
+    "rating",
+    "ngx-rating-star",
+    "manoj10101996",
+    "uiconfig"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manoj10101996/ngx-star-rating"
+  },
+  "main": "bundles/ngx-rating-star.umd.js",
+  "module": "fesm5/ngx-rating-star.js",
+  "es2015": "fesm2015/ngx-rating-star.js",
+  "esm5": "esm5/ngx-rating-star.js",
+  "esm2015": "esm2015/ngx-rating-star.js",
+  "fesm5": "fesm5/ngx-rating-star.js",
+  "fesm2015": "fesm2015/ngx-rating-star.js",
+  "typings": "ngx-rating-star.d.ts",
+  "metadata": "ngx-rating-star.metadata.json",
+  "sideEffects": false
+}

@@ -1,0 +1,15 @@
+import { __decorate } from "tslib";
+import { NgModule } from '@angular/core';
+import { Ng9AppLibComponent } from './ng9-app-lib.component';
+import { HeaderboxComponent } from './headerbox/headerbox.component';
+let ngxRatingModule = class ngxRatingModule {
+};
+ngxRatingModule = __decorate([
+    NgModule({
+        declarations: [Ng9AppLibComponent, HeaderboxComponent],
+        imports: [],
+        exports: [Ng9AppLibComponent, HeaderboxComponent],
+    })
+], ngxRatingModule);
+export { ngxRatingModule };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmc5LWFwcC1saWIubW9kdWxlLmpzIiwic291cmNlUm9vdCI6Im5nOi8vbmd4LXJhdGluZy1zdGFyLyIsInNvdXJjZXMiOlsibGliL25nOS1hcHAtbGliLm1vZHVsZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEsT0FBTyxFQUFFLFFBQVEsRUFBRSxNQUFNLGVBQWUsQ0FBQztBQUN6QyxPQUFPLEVBQUUsa0JBQWtCLEVBQUUsTUFBTSx5QkFBeUIsQ0FBQztBQUM3RCxPQUFPLEVBQUUsa0JBQWtCLEVBQUUsTUFBTSxpQ0FBaUMsQ0FBQztBQU9yRSxJQUFhLGVBQWUsR0FBNUIsTUFBYSxlQUFlO0NBQUcsQ0FBQTtBQUFsQixlQUFlO0lBTDNCLFFBQVEsQ0FBQztRQUNSLFlBQVksRUFBRSxDQUFDLGtCQUFrQixFQUFFLGtCQUFrQixDQUFDO1FBQ3RELE9BQU8sRUFBRSxFQUFFO1FBQ1gsT0FBTyxFQUFFLENBQUMsa0JBQWtCLEVBQUUsa0JBQWtCLENBQUM7S0FDbEQsQ0FBQztHQUNXLGVBQWUsQ0FBRztTQUFsQixlQUFlIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJztcbmltcG9ydCB7IE5nOUFwcExpYkNvbXBvbmVudCB9IGZyb20gJy4vbmc5LWFwcC1saWIuY29tcG9uZW50JztcbmltcG9ydCB7IEhlYWRlcmJveENvbXBvbmVudCB9IGZyb20gJy4vaGVhZGVyYm94L2hlYWRlcmJveC5jb21wb25lbnQnO1xuXG5ATmdNb2R1bGUoe1xuICBkZWNsYXJhdGlvbnM6IFtOZzlBcHBMaWJDb21wb25lbnQsIEhlYWRlcmJveENvbXBvbmVudF0sXG4gIGltcG9ydHM6IFtdLFxuICBleHBvcnRzOiBbTmc5QXBwTGliQ29tcG9uZW50LCBIZWFkZXJib3hDb21wb25lbnRdLFxufSlcbmV4cG9ydCBjbGFzcyBuZ3hSYXRpbmdNb2R1bGUge31cbiAgIl19
