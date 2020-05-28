@@ -32,8 +32,9 @@ After importing this library with `ng build ng9-app-lib`, go to the component wh
 
 > `<ngx-rating [star]="1" [shape]="'star' | 'multistar' | 'fill'"></ngx-rating>`
 
-> star : (required) value shoule be `1-5`
-> shaoe : (required) value shoule be `'star' | 'multistar' | 'fill'`
+> #star : (required) value shoule be `1-5`
+
+> #shape : (required) value shoule be `'star' | 'multistar' | 'fill'`
 
 ## Further help
 
