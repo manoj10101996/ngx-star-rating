@@ -9,6 +9,7 @@
 # Preview demo
 
 This preview was generated with [Stackblitz](https://stackblitz.com/edit/ngx-rating-star)
+<img src="https://github.com/manoj10101996/ngx-star-rating/blob/master/star.png?raw=true" width="100%" title="STAR RATING" alt="STAR">
 
 
 # Angular version
