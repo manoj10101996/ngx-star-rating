@@ -22,10 +22,13 @@ Import the module on your `app.module.ts` file as follow.
 
 > import { ngxRatingModule } from "ngx-rating-star";
 
+Then import the module as follow on imports array
+
+>ngxRatingModule
 
 ## Using
 
-After importing this library with `ng build ng9-app-lib`, go to the component which is imported under `app.module.ts` and integrate as below.
+After importing this library with `ng build ng9-app-lib`, go to the component which is declared under `app.module.ts` and integrate as below.
 
 > `<ngx-rating [star]="1" [shape]="'star' | 'multistar' | 'fill'"></ngx-rating>`
 
