@@ -27,7 +27,7 @@ Import the module on your `app.module.ts` file as follow.
 
 After importing this library with `ng build ng9-app-lib`, go to the component which is imported under `app.module.ts` and integrate as below.
 
-> <ngx-rating [star]="1" [shape]="'star' | 'multistar' | 'fill'"></ngx-rating>
+> `<ngx-rating [star]="1" [shape]="'star' | 'multistar' | 'fill'"></ngx-rating>`
 
 > star : (required) value shoule be `1-5`
 > shaoe : (required) value shoule be `'star' | 'multistar' | 'fill'`
